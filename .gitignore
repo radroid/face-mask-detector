@@ -166,4 +166,6 @@ docs/Object Detection/AIDI-2000-02 - Final Project.pptx
 notebooks/5 - Pre-trained Detection Model.ipynb
 notebooks/model_main_tf2.py
 Tensorflow/workspace/images.zip
-Tensorflow/workspace/images/main.py
+Tensorflow/workspace/images
+Tensorflow/workspace/pre-trained-models
+Tensorflow/workspace/models/my_ssd_mobnet
