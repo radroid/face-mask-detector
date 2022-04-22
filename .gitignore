@@ -158,3 +158,6 @@ fmdenv/
 notebooks/Modelling - test.ipynb
 notebooks/Untitled-Copy1.ipynb
 notebooks/Untitled.ipynb
+Tensorflow/labelimg/
+Tensorflow/io/
+Tensorflow/models/
